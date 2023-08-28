@@ -11,3 +11,4 @@
 [![](https://visitcount.itsvg.in/api?id=samsara-02&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+[![roadmap.sh](https://api.roadmap.sh/v1-badge/tall/64ec8af5b128dce3cb840756?variant=dark)](https://roadmap.sh)
