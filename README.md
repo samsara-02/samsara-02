@@ -43,13 +43,6 @@
 ![VMware Badge](https://img.shields.io/badge/VMware-607078?logo=vmware&logoColor=fff&style=for-the-badge)
 ![Vue.js](https://img.shields.io/badge/vue.js-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234)
 
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=samsara-02&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
 ---
 [![](https://visitcount.itsvg.in/api?id=samsara-02&icon=0&color=0)](https://visitcount.itsvg.in)
 
