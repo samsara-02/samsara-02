@@ -48,4 +48,3 @@
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 [![roadmap.sh](https://api.roadmap.sh/v1-badge/tall/64ec8af5b128dce3cb840756?variant=dark)](https://roadmap.sh)
-![tryhackme stats](https://raw.githubusercontent.com/samsara02/samsara02/master/assets/thm_propic.png)
