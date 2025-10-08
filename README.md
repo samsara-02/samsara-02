@@ -23,7 +23,7 @@
 ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
 ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
 ![MicroPython Badge](https://img.shields.io/badge/MicroPython-2B2728?logo=micropython&logoColor=fff&style=for-the-badge)
-![MikroTik](https://img.shields.io/badge/MikroTik-4AB86B?logo=mikrotik&logoColor=Grey&style=for-the-badge)
+![MikroTik](https://img.shields.io/badge/MikroTik-2a3239?logo=mikrotik&logoColor=white&style=for-the-badge)
 ![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
@@ -38,7 +38,7 @@
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 ![Ubiquiti](https://img.shields.io/badge/Ubiquiti-0555DD?style=for-the-badge&logo=ubiquiti&logoColor=white)
 ![VMware Badge](https://img.shields.io/badge/VMware-607078?logo=vmware&logoColor=fff&style=for-the-badge)
-![Vue.js](https://img.shields.io/badge/vue.js-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234)
+
 
 ---
 [![](https://visitcount.itsvg.in/api?id=samsara-02&icon=0&color=0)](https://visitcount.itsvg.in)
